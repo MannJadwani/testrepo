@@ -1,0 +1,2 @@
+mkdir file 
+cd file 
